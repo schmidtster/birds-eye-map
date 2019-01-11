@@ -1,8 +1,8 @@
-#### Live site:
+### Live site:
 
 http://clements.umich.edu/exhibits/online/birdseye/birdseye.php
 
-#### Description
+### Description
 
 This program takes the Clements Library Image Bank API, extracts information about all the images that have the project 
 name "Bird's-Eye View Project", generates a .geoJSON file, initializes a Leaflet map, and plots points with information 
@@ -20,7 +20,7 @@ Fontawesome 5.2.0 - https://fontawesome.com/;
 Leaflet Easybutton - https://github.com/CliffCloud/Leaflet.EasyButton.
 
 
-#### Structure
+### Structure
 
 ##### image_bank_request_api.py
 Requirements: Python3, json, requests, codecs, datetime, timezone, sys, re. See requirements.txt for full list.
@@ -88,7 +88,7 @@ are lists. Used for Leaflet Tag Filter Button.
 Instructions: Make sure enableMCG.js, map.js, leaflet_text_2.html, and map-v2.geojson are all in the same directory as the 
 html file.
 
-#### Appendix
+### Appendix
 
 There are two README's for the image_bank_request_api.py and leaflet_text_2.html that detail what each line of the file
 does through comments. It should be noted that both enableMCG.js and map.js were a part of leaflet_text_2.html but were 
