@@ -1,0 +1,13 @@
+bash==0.6
+certifi==2018.4.16
+chardet==3.0.4
+DateTime==4.2
+geojson==2.4.0
+idna==2.7
+pytz==2018.5
+range==1.0.0
+regex==2018.11.22
+requests==2.19.1
+urllib3==1.23
+virtualenv==16.1.0
+zope.interface==4.5.0

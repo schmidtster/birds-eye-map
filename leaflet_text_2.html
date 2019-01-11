@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Bird's-Eye Views - William H. Clements Library</title>
+
+  <!-- jQuery -->
+  <script src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha384-tsQFqpEReu7ZLhBV2VZlAu7zcOV+rXbYlF2cqB8txI/8aZajjp4Bqd+V6D5IgvKT" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="jQuery 3.3.1/jquery-3.3.1.js">/x3C/script>')</script>
+  <script>window.jQuery || document.write('<script src="jQuery 3.3.1/jquery-3.3.1.min.js">/x3C/script>')</script>
+
+
+  <!-- Leaflet -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.css" media="screen, print" rel="stylesheet" integrity="sha512-Rksm5RenBEKSKFjgI3a41vrjkw4EVPlJ3+OiI65vTjIdo9brlAacEuKOiQ5OFh7cOI1bkDwLqdLw3Zg0cRJAAQ=="
+  crossorigin="">
+  <script type='text/javascript' src='https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.3/leaflet.js' integrity="sha512-tAGcCfR4Sc5ZP5ZoVz0quoZDYX5aCtEm/eu1KhSLj2c9eFrylXZknQYmxUssFaVJKvvc0dJQixhGjG2yXWiV9Q=="
+  crossorigin=""></script>
+  <!-- In case of cdn breaking, uncomment this section. It will reference the local files on the server: -->
+  <!-- <link href="leaflet/leaflet.css" media="screen, print" rel="stylesheet" />
+  <script type='text/javascript' src='leaflet/leaflet.js'></script> -->
+
+  <!-- MarkerCluster Plugin -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.3.0/MarkerCluster.css" integrity="sha384-lPzjPsFQL6te2x+VxmV6q1DpRxpRk0tmnl2cpwAO5y04ESyc752tnEWPKDfl1olr" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.3.0/MarkerCluster.Default.css" integrity="sha384-5kMSQJ6S4Qj5i09mtMNrWpSi8iXw230pKU76xTmrpezGnNJQzj0NzXjQLLg+jE7k" crossorigin="anonymous">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.3.0/leaflet.markercluster.js" integrity="sha384-1artbd0pdGdZ72+IcKWkY1So1xu4Hzygfd0cVLSs7f5lBZZ/FhyEZc4UyQR3DT9c" crossorigin="anonymous"></script>
+  <!-- If markercluster goes down, uncomment the section below. It will reference the local files on the server: -->
+  <!-- <link rel="stylesheet" type="text/css" href="Leaflet.markercluster-master/Leaflet.markercluster-master/dist/MarkerCluster.css" />
+  <link rel="stylesheet" type="text/css" href="Leaflet.markercluster-master/Leaflet.markercluster-master/dist/MarkerCluster.Default.css" />
+  <script src="Leaflet.markercluster-master/Leaflet.markercluster-master/dist/leaflet.markercluster.js"></script> -->
+
+  <!-- tagFilterButton Plugin -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-tag-filter-button@0.0.4/src/leaflet-tag-filter-button.css" integrity="sha384-qk0hbOre/j9o7RPo7Gehr1T2jE3qRUXoCmJh3ze+Tk4JwTMDA+990SJd4Tl+m75W" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/leaflet-tag-filter-button@0.0.4/src/leaflet-tag-filter-button.js" integrity="sha384-J0V5vQ3gXq22fIvuL0ugbCm6pCJ+rKpDnX5BdlofJBdqvNOWWjQeDIr16xyypYBz" crossorigin="anonymous"></script>
+  <!-- In case of cdn breaking, uncomment the section below. It will reference the local files on the server: -->
+  <!-- <link rel="stylesheet" href="leaflet-tag-filter-button-master/leaflet-tag-filter-button-master/src/leaflet-tag-filter-button.css" />
+  <script src="leaflet-tag-filter-button-master/leaflet-tag-filter-button-master/src/leaflet-tag-filter-button.js"></script> -->
+
+  <!-- zoomHome plugin (replaces default leaflet zoom button in top left of screen) -->
+  <link rel="stylesheet" href="leaflet.zoomhome-master/leaflet.zoomhome-master/dist/leaflet.zoomhome.css"/>
+  <script src="leaflet.zoomhome-master/leaflet.zoomhome-master/dist/leaflet.zoomhome.min.js"></script>
+
+  <!-- Fullscreen Plugin-->
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/leaflet.fullscreen.css" integrity="sha384-t17w2haSDwLp3KSAOHF7+VI9q2maRMLDhnIyU/JasjeWyxcN3YOcrD7T95CiJSWE" crossorigin="anonymous">
+  <script src="https://api.mapbox.com/mapbox.js/plugins/leaflet-fullscreen/v1.0.1/Leaflet.fullscreen.min.js" integrity="sha384-btJhAWztz7ttA6ibFC5ppM39nkCPK6CWzRVmsaLcDn37mA3x1TzF1DbFwa6tJpTN" crossorigin="anonymous"></script>
+  <!-- In case of cdn breaking, uncomment the section below. It will reference the local files on the server: -->
+  <!-- <link href='Leaflet.fullscreen-gh-pages/Leaflet.fullscreen-gh-pages/dist/leaflet.fullscreen.css' rel='stylesheet' />
+  <script src='Leaflet.fullscreen-gh-pages/Leaflet.fullscreen-gh-pages/dist/leaflet.fullscreen.js'></script> -->
+
+  <!-- fontawesome (used for extra icons) -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" type='text/css' integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+  <!-- In case of cdn breaking, uncomment the section below. It will reference the local files on the server: -->
+  <!-- <link href="fontawesome-free-5.2.0-web/fontawesome-free-5.2.0-web/css/all.css" rel="stylesheet" /> -->
+
+  <!-- EasyButton Plugin (compatibility for tagFilterButton) -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.css" integrity="sha384-iNk4bdiUuP4VWx8c4KVwk07wshEQVvAe/8xwpcNR/5anLhH9SFPHkjLSXAwGwXKC" crossorigin="anonymous">
+  <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js" integrity="sha384-GHKGgc0qNzZZpBzGWvVZWSRFNB+LYy8aJCBtgI0IpWul99UCBQcSP85Z9RLAorB/" crossorigin="anonymous"></script>
+  <!-- In case of cdn breaking, uncomment the section below. It will reference the local files on the server: -->
+  <!-- <link rel="stylesheet" href="Leaflet.EasyButton-master/Leaflet.EasyButton-master/src/easy-button.css" />
+  <script src="Leaflet.EasyButton-master/Leaflet.EasyButton-master/src/easy-button.js"></script> -->
+
+
+<style type="text/css">
+/* sets the map size to fit the screen it is in (found from lyzidiamond.com/posts/osgeo-august-meeting)*/
+  body { padding: 0; margin: 0;}
+  html, body, #bev_map {height: 100%;}
+
+  .easy-button-button {
+  display: block !important;}
+
+  .tag-filter-tags-container {
+  margin-left: 40px;}
+
+  .custom .leaflet-popup-tip,
+  .custom .leaflet-popup-content-wrapper {
+  font-size: 17px;
+  }
+
+  .leaflet-bar span.filter-info-box {
+      white-space: pre-wrap;
+  }
+
+  .leaflet-bar .tag-filter-tags-container ul {
+      border: 1px solid #000;
+      width: 230px; margin: 0 auto;
+      max-height: 250px;
+  }
+
+  .leaflet-bar .tag-filter-tags-container ul li a {
+      font-size: 15px;
+      font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+      color: #000000;
+      display: inline;
+  }
+
+  .leaflet-bar .tag-filter-tags-container ul.header {
+      border-top: 1px solid #000;
+      border-bottom: 1px solid #000;
+  }
+
+  .leaflet-bar .tag-filter-tags-container .checkbox {
+      font-size: 15px;
+      color: #000;
+  }
+
+  .leaflet-bar .tag-filter-tags-container ul li {
+      padding-left: 10px;
+      border-bottom: 1px solid #000;
+  }
+
+</style>
+
+</head>
+
+<body>
+
+    <div id="bev_map"></div>
+
+    <script src="enableMCG.js"></script>
+
+    <script src="map.js"></script>
+
+</body>
+</html>

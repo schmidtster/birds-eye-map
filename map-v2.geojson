@@ -1,0 +1,1860 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.714055,
+          38.440429
+        ]
+      },
+      "properties": {
+        "Title": "Santa Rosa. Sonoma County. California. 1885.",
+        "Date": "1885",
+        "Creator": "W.W. Elliot & Co., lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5693/WCL005766",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5693:WCL005766/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Advertisements",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.591076,
+          39.145162
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of Marysville and Yuba City, Cal. and Surrounding Country.",
+        "Date": "1888",
+        "Creator": "W.W. Elliott & Co., lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5694/WCL005767",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5694:WCL005767/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.54615,
+          39.746772
+        ]
+      },
+      "properties": {
+        "Title": "Wilmington, Del. 1874.",
+        "Date": "1874",
+        "Creator": "H.H. Bailey & Co., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5695/WCL005768",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5695:WCL005768/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Colored",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.101743,
+          32.084188
+        ]
+      },
+      "properties": {
+        "Title": "To the Hon.ble the Trustees for establishing the Colony of Georgia in America This View of the Town of Savanah is humbly dedicated by their Honours Obliged and most Obedient Servant. Peter Gordon. A View of Savanah as it stood the 29th of March, 1734. = V\u00fce de Savanah dans la Georgie.",
+        "Date": "after 1734",
+        "Creator": "Fourdrinier, Paul, 1698-1758, engraver.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5696/WCL005769",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5696:WCL005769/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Engravings",
+          "Cityscapes",
+          "Etchings",
+          "Bird's-eye views",
+          "Intaglio prints"
+        ],
+        "Date_Range": [
+          "1700-1799"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.625331,
+          41.58545
+        ]
+      },
+      "properties": {
+        "Title": "View of the City of Des Moines, Iowa. Jan. 1st 1886.",
+        "Date": "1886",
+        "Creator": "Mills & Co. lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5697/WCL005770",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5697:WCL005770/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Advertisements",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.235892,
+          38.97167
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of Lawrence. Kansas, 1880.",
+        "Date": "1880",
+        "Creator": "Morse, D.D., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5698/WCL005771",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5698:WCL005771/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Colored",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.802296,
+          42.583423
+        ]
+      },
+      "properties": {
+        "Title": "View of Fitchburg, Mass.",
+        "Date": "1870",
+        "Creator": "Whitefield, Edwin, 1816-1892, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5699/WCL005772",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5699:WCL005772/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Colored",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.163114,
+          42.707035
+        ]
+      },
+      "properties": {
+        "Title": "Lawrence, Mass. 1876.",
+        "Date": "1876",
+        "Creator": "Bailey, H.H. (Howard Heston), 1836-1878, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5700/WCL005773",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5700:WCL005773/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.316172,
+          42.633425
+        ]
+      },
+      "properties": {
+        "Title": "Birds Eye View of Lowell, Mass. 1876.",
+        "Date": "1876",
+        "Creator": "Bailey, H.H. (Howard Heston), 1836-1878, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5701/WCL005774",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5701:WCL005774/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.930672,
+          41.637856
+        ]
+      },
+      "properties": {
+        "Title": "View of the City of New Bedford, Mass. 1876.",
+        "Date": "1876",
+        "Creator": "O.H. Bailey & Co., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5702/WCL005775",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5702:WCL005775/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.319039,
+          41.905552
+        ]
+      },
+      "properties": {
+        "Title": "Hebronville, Massachusetts. 1891.",
+        "Date": "1891",
+        "Creator": "O.H. Bailey & Co., lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5703/WCL005776",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5703:WCL005776/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.256819,
+          43.659099
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of the City of Portland Maine, 1876.",
+        "Date": "1876",
+        "Creator": "Warner, Jos., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5704/WCL005777",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5704:WCL005777/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.750875,
+          42.278855
+        ]
+      },
+      "properties": {
+        "Title": "Panoramic View of the City of Ann Arbor, Washtenaw Co. Michigan, 1880.",
+        "Date": "1880",
+        "Creator": "Ruger, A., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5705/WCL005778",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5705:WCL005778/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Color",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.056864,
+          42.346356
+        ]
+      },
+      "properties": {
+        "Title": "Detroit, Mich.",
+        "Date": "approximately 1854-1859",
+        "Creator": "Robertson, George J., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5706/WCL005779",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5706:WCL005779/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1840-1859"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.270119,
+          44.976063
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of Minneapolis, Minn.",
+        "Date": "1891",
+        "Creator": "Pezolt, F. (Frank), artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5707/WCL005780",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5707:WCL005780/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.034747,
+          46.595145
+        ]
+      },
+      "properties": {
+        "Title": "Perspective Map of the City of Helena, Mont. Capital of State, County Seat of Lewis & Clarke Co. 1890",
+        "Date": "1890",
+        "Creator": "American Publishing Co. (Milwaukee, Wis.), publisher.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5708/WCL005781",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5708:WCL005781/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Hand-colored"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.859362,
+          40.676575
+        ]
+      },
+      "properties": {
+        "Title": "Birds Eye View of Nebraska City Otoe County Nebraska 1880.",
+        "Date": "approximately 1880",
+        "Creator": "Koch, Augustus, 1840- artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5709/WCL005782",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5709:WCL005782/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.39571,
+          41.717038
+        ]
+      },
+      "properties": {
+        "Title": "Ellenville, N.Y. 1887",
+        "Date": "1887",
+        "Creator": "Burleigh, L. R., 1853-1923, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5710/WCL005783",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5710:WCL005783/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.784565,
+          43.08313
+        ]
+      },
+      "properties": {
+        "Title": "Saratoga Springs. N.Y. 1888.",
+        "Date": "1888",
+        "Creator": "Burleigh, L.R., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5711/WCL005784",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5711:WCL005784/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.057471,
+          42.957564
+        ]
+      },
+      "properties": {
+        "Title": "Phelps, N.Y.",
+        "Date": "1892",
+        "Creator": "Burleigh Litho, lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5712/WCL005785",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5712:WCL005785/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.852691,
+          42.930067
+        ]
+      },
+      "properties": {
+        "Title": "Cazenovia, N.Y.",
+        "Date": "1890",
+        "Creator": "Burleigh, L. R., 1853-1923, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5713/WCL005786",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5713:WCL005786/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.687341,
+          42.902855
+        ]
+      },
+      "properties": {
+        "Title": "Mechanicville, N.Y.",
+        "Date": "between 1880",
+        "Creator": "Burleigh, L. R., 1853-1923, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5714/WCL005787",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5714:WCL005787/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.547969,
+          39.198496
+        ]
+      },
+      "properties": {
+        "Title": "[Bird's-eye view of the Ohio Female College, Cincinnati, Ohio].",
+        "Date": "between 1858",
+        "Creator": "Middleton, Strobridge & Co., lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5715/WCL005788",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5715:WCL005788/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Albumen prints",
+          "Bird's-eye views",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1840-1859",
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.748809,
+          41.544457
+        ]
+      },
+      "properties": {
+        "Title": "Lakeside.",
+        "Date": "1884",
+        "Creator": "Hare, A.J., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5716/WCL005789",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5716:WCL005789/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Hand-colored"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.831444,
+          41.397836
+        ]
+      },
+      "properties": {
+        "Title": "View of the City of Franklin, PA. 1901",
+        "Date": "1901",
+        "Creator": "Fowler, T. M. (Thaddeus Mortimer), 1842-1922, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5717/WCL005790",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5717:WCL005790/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1901-2000"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.010281,
+          40.484796
+        ]
+      },
+      "properties": {
+        "Title": "Huntingdon, PA. 1878",
+        "Date": "1878",
+        "Creator": "Denslow, W. W. (William Wallace), 1856-1915, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5718/WCL005791",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5718:WCL005791/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Hand-colored Tinted",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21468,
+          39.981047
+        ]
+      },
+      "properties": {
+        "Title": "The Centennial--Balloon View of the Grounds.",
+        "Date": "1876",
+        "Creator": "Davis, Theodore R., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5719/WCL005792",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5719:WCL005792/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Intaglio prints",
+          "Engravings",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.468893,
+          40.096638
+        ]
+      },
+      "properties": {
+        "Title": "Valley Forge, PA. 1890.",
+        "Date": "1890",
+        "Creator": "Moyer, James B., publisher.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5720/WCL005793",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5720:WCL005793/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.317376,
+          35.047662
+        ]
+      },
+      "properties": {
+        "Title": "Chattanooga and Lookout Mountain",
+        "Date": "1897",
+        "Creator": "Wellge, H. (Henry), artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5721/WCL005794",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5721:WCL005794/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Chromolithographs",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.317376,
+          35.047662
+        ]
+      },
+      "properties": {
+        "Title": "Chattanooga. County Seat of Hamilton County Tennessee. 1886 Population 30,000.",
+        "Date": "1886",
+        "Creator": "Wellge, H. (Henry), artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5722/WCL005795",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5722:WCL005795/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.900594,
+          47.045351
+        ]
+      },
+      "properties": {
+        "Title": "Bird's-Eye View of the City of Olympia, East Olympia and Tumwater, Puget Sound, Washington Territory, 1879.",
+        "Date": "1878",
+        "Creator": "Glover, E. S. (Eli Sheldon), 1844-1920, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5723/WCL005796",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5723:WCL005796/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.440485,
+          47.253179
+        ]
+      },
+      "properties": {
+        "Title": "City of Tacoma, W.T. 1885.",
+        "Date": "approximately 1885",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/5724/WCL005797",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:5724:WCL005797/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.393764,
+          37.783306
+        ]
+      },
+      "properties": {
+        "Title": "San Francisco. 1856.",
+        "Date": "1856",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6687/WCL006753",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6687:WCL006753/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1840-1859"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5130563,
+          39.80182875
+        ]
+      },
+      "properties": {
+        "Title": "Central City",
+        "Date": "1866",
+        "Creator": "Mathews, Alfred Edward, 1831-1874, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6688/WCL006754",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6688:WCL006754/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithotints"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5293856,
+          39.79595325
+        ]
+      },
+      "properties": {
+        "Title": "Nevada, Colorado.",
+        "Date": "1866",
+        "Creator": "Mathews, Alfred Edward, 1831-1874, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6689/WCL006755",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6689:WCL006755/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5179096,
+          44.87514857
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of Redfield, Dak.",
+        "Date": "1883",
+        "Creator": "Wellge, H. (Henry), artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6690/WCL006756",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6690:WCL006756/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4921829,
+          38.9784453
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of the City of Annapolis, MD.",
+        "Date": "1864",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6691/WCL006757",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6691:WCL006757/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0059728,
+          40.7127753
+        ]
+      },
+      "properties": {
+        "Title": "New York and Environs.",
+        "Date": "1868",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6692/WCL006758",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6692:WCL006758/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Engravings",
+          "Marine prints",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0072388,
+          40.71134399
+        ]
+      },
+      "properties": {
+        "Title": "New York and Environs.",
+        "Date": "1869",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6693/WCL006759",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6693:WCL006759/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Engravings",
+          "Marine prints",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4836557,
+          43.6980782
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of the City of Big Rapids, Mich 1880.",
+        "Date": "1880",
+        "Creator": "Beck & Pauli, lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6695/WCL006761",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6695:WCL006761/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Colored",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0588801,
+          42.3600825
+        ]
+      },
+      "properties": {
+        "Title": "A View of the Town of Boston with Several Ships of War in the Harbour.",
+        "Date": "1774",
+        "Creator": "Revere, Paul, 1735-1818, engraver.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6696/WCL006762",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6696:WCL006762/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Engravings",
+          "Bird's-eye views",
+          "Cityscapes",
+          "Naval prints"
+        ],
+        "Date_Range": [
+          "1700-1799"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3721316,
+          40.61238038
+        ]
+      },
+      "properties": {
+        "Title": "A View of Bethlehem one of the Brethren's Principal Settlements, in Pensylvania, North America.",
+        "Date": "1757",
+        "Creator": "Garrison, Nicholas, 1701-1781, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6698/WCL006764",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6698:WCL006764/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Intaglio prints",
+          "Engravings Hand-colored",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1700-1799"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3399048,
+          40.121497
+        ]
+      },
+      "properties": {
+        "Title": "Norristown",
+        "Date": "1854",
+        "Creator": "Levey, Morris, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6699/WCL006765",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6699:WCL006765/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1840-1859"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.21484,
+          42.54381
+        ]
+      },
+      "properties": {
+        "Title": "Panoramic View of Birmingham Oakland Co. Michigan",
+        "Date": "1881",
+        "Creator": "Beck & Pauli, lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6706/WCL006772",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6706:WCL006772/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.505106,
+          40.835006
+        ]
+      },
+      "properties": {
+        "Title": "State Asylum for the Insane, at Morristown, N.J.",
+        "Date": "between 1875",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6708/WCL006774",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6708:WCL006774/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Relief prints",
+          "Bird's-eye views",
+          "Wood engravings"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.059823,
+          43.085401
+        ]
+      },
+      "properties": {
+        "Title": "A Bird's-eye View of the river Niagara from Lake Erie to Lake Ontario showing the situation and extent of Navy Island, and the Towns and Villages on the banks of the river in Canada and the United States.",
+        "Date": "1837",
+        "Creator": "Callington, W. R., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6709/WCL006775",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6709:WCL006775/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs Hand-colored"
+        ],
+        "Date_Range": [
+          "1820-1839"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.08710933,
+          38.7076339
+        ]
+      },
+      "properties": {
+        "Title": "Birds Eye View of Mt. Vernon, the Home of Washington.",
+        "Date": "1859",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6721/WCL006787",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6721:WCL006787/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs Hand-colored",
+          "Exterior views"
+        ],
+        "Date_Range": [
+          "1840-1859"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.87365341,
+          42.88581752
+        ]
+      },
+      "properties": {
+        "Title": "City of Buffalo.",
+        "Date": "1873",
+        "Creator": "Warren, Asa Coolidge, 1819-1904, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6729/WCL006795",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6729:WCL006795/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Etchings"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.876993,
+          42.812983
+        ]
+      },
+      "properties": {
+        "Title": "Newburyport, Mass. in the year 1876",
+        "Date": "approximately 1876",
+        "Creator": "Whitefield, Edwin, 1816-1892, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6736/WCL006802",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6736:WCL006802/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Photographic prints",
+          "Albumen prints",
+          "Cityscapes",
+          "Lithographs Photographic reproductions",
+          "Bird's-eye views"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.173922,
+          39.960438
+        ]
+      },
+      "properties": {
+        "Title": "Buildings of the Great Central Fair, in aid of the U.S. Sanitary Commission Logan Square, Philadelphia, June 1864.",
+        "Date": "1864",
+        "Creator": "Queen, James Fuller, 1820 or 1821-1886, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6737/WCL006803",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6737:WCL006803/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Color",
+          "Bird's-eye views"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.307445,
+          37.004222
+        ]
+      },
+      "properties": {
+        "Title": "Fortress Monroe, Old Point Comfort and Hygeia Hotel, Va.",
+        "Date": "1861",
+        "Creator": "E. Sachse & Co., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6738/WCL006804",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6738:WCL006804/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Hand-colored Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.307445,
+          37.004222
+        ]
+      },
+      "properties": {
+        "Title": "Fortress Monroe. February 1862.",
+        "Date": "1862",
+        "Creator": "Ferd. Mayer & Co., lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6739/WCL006805",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6739:WCL006805/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Color Hand-colored",
+          "Bird's-eye views"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.089958,
+          44.953705
+        ]
+      },
+      "properties": {
+        "Title": "St. Paul",
+        "Date": "1883",
+        "Creator": "Wellge, H. (Henry), artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6740/WCL006806",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6740:WCL006806/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.551965,
+          39.271122
+        ]
+      },
+      "properties": {
+        "Title": "Parkersburg, West Virginia 1899.",
+        "Date": "1899",
+        "Creator": "Fowler, T. M. (Thaddeus Mortimer), 1842-1922, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6741/WCL006807",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6741:WCL006807/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.551965,
+          39.271122
+        ]
+      },
+      "properties": {
+        "Title": "Parkersburg, West Virginia 1899.",
+        "Date": "1899",
+        "Creator": "Fowler, T. M. (Thaddeus Mortimer), 1842-1922, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6742/WCL006808",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6742:WCL006808/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Hand-colored"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.85342,
+          43.23288
+        ]
+      },
+      "properties": {
+        "Title": "Rosebud Indian Agency, D.T.",
+        "Date": "between 1880",
+        "Creator": "McCoy, James, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6743/WCL006809",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6743:WCL006809/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.916115,
+          42.131483
+        ]
+      },
+      "properties": {
+        "Title": "Bird's Eye View of the Town of Rockland, Plymouth County Mass. 1881",
+        "Date": "1881",
+        "Creator": "Poole, A. F., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6744/WCL006810",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6744:WCL006810/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.056864,
+          42.346356
+        ]
+      },
+      "properties": {
+        "Title": "General view of the buildings and ground of the Detroit International Fair and Exposition.",
+        "Date": "1889",
+        "Creator": "Schell & Hogan, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6745/WCL006811",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6745:WCL006811/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Wood engravings Hand-colored",
+          "Relief prints"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.056864,
+          42.346356
+        ]
+      },
+      "properties": {
+        "Title": "Detroit 1818 Historically correct in every point of detail",
+        "Date": "approximately 1918",
+        "Creator": "",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6747/WCL006813",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6747:WCL006813/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Photomechanical prints",
+          "Then & now comparisons"
+        ],
+        "Date_Range": [
+          "1901-2000"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.77062,
+          42.33124
+        ]
+      },
+      "properties": {
+        "Title": "Greene, N.Y.",
+        "Date": "1890",
+        "Creator": "Burleigh, L. R., 1853-1923, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6748/WCL006814",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6748:WCL006814/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.010877,
+          40.709706
+        ]
+      },
+      "properties": {
+        "Title": "West View from the Singer Tower.",
+        "Date": "1909",
+        "Creator": "Spofford, Edward W., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6749/WCL006815",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6749:WCL006815/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Advertisements",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1901-2000"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.127736,
+          43.567199
+        ]
+      },
+      "properties": {
+        "Title": "Pulaski, N.Y. 1885.",
+        "Date": "1885",
+        "Creator": "Burleigh, L. R., 1853-1923, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6750/WCL006816",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6750:WCL006816/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.784565,
+          43.08313
+        ]
+      },
+      "properties": {
+        "Title": "Saratoga Springs and vicinity--scene of the inter-collegiate regatta.",
+        "Date": "1874",
+        "Creator": "David, Theodore R., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6751/WCL006817",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6751:WCL006817/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Wood engravings",
+          "Relief prints"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.965536,
+          42.314779
+        ]
+      },
+      "properties": {
+        "Title": "Jacksonville, Jackson County, Oregon, T. 1856.",
+        "Date": "1856",
+        "Creator": "Kuchel & Dresel, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6752/WCL006818",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6752:WCL006818/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs Hand-colored",
+          "Advertisements"
+        ],
+        "Date_Range": [
+          "1840-1859"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.693186,
+          41.507652
+        ]
+      },
+      "properties": {
+        "Title": "View of the Ohio State Fair grounds, 1856.",
+        "Date": "1856",
+        "Creator": "Klauprech & Menzel, lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6753/WCL006819",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6753:WCL006819/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Chromolithographs",
+          "Bird's-eye views",
+          "Cityscapes"
+        ],
+        "Date_Range": [
+          "1840-1859"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.521629,
+          40.79706
+        ]
+      },
+      "properties": {
+        "Title": "Bird's eye view of Massillon Stark County Ohio 1870",
+        "Date": "1870",
+        "Creator": "Ruger, A., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6754/WCL006820",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6754:WCL006820/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.164104,
+          39.953885
+        ]
+      },
+      "properties": {
+        "Title": "Philadelphia in the olden time.",
+        "Date": "1875",
+        "Creator": "Smith & Cremens, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6755/WCL006821",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6755:WCL006821/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.002036,
+          40.44308
+        ]
+      },
+      "properties": {
+        "Title": "Pittsburgh, Pennsylvania. 1902.",
+        "Date": "1902",
+        "Creator": "Fowler, T. M. (Thaddeus Mortimer), 1842-1922, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6756/WCL006822",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6756:WCL006822/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1901-2000"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.282542,
+          41.730727
+        ]
+      },
+      "properties": {
+        "Title": "View of Warren, R.I. 1877.",
+        "Date": "1877",
+        "Creator": "O.H. Bailey & Co., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6757/WCL006823",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6757:WCL006823/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.024443,
+          38.38026
+        ]
+      },
+      "properties": {
+        "Title": "Camp Leavitt. Winter quarters of the 16th. Maine Regiment, March 18th. 1865.",
+        "Date": "approximately 1865",
+        "Creator": "Webber, W., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6758/WCL006824",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6758:WCL006824/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.583345,
+          36.729006
+        ]
+      },
+      "properties": {
+        "Title": "Camp of Massachusetts Sixth Regt,, Vols,, Suffolk, Va.",
+        "Date": "1863",
+        "Creator": "J.H. Bufford's Lith., lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6759/WCL006825",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6759:WCL006825/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.409444,
+          43.069722
+        ]
+      },
+      "properties": {
+        "Title": "Camp Randall, Madison, Wis.",
+        "Date": "1864",
+        "Creator": "Kurz, Louis, 1833-1921, artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6760/WCL006826",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6760:WCL006826/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Lithographs Tinted"
+        ],
+        "Date_Range": [
+          "1860-1879"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.029664,
+          36.974746
+        ]
+      },
+      "properties": {
+        "Title": "Riverside House & Cottages, Santa Cruz.",
+        "Date": "approximately between 1880",
+        "Creator": "Saalburg, Charles W., lithographer.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6761/WCL006827",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6761:WCL006827/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Lithographs Color",
+          "Bird's-eye views",
+          "Advertisements"
+        ],
+        "Date_Range": [
+          "1880-1900"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.922371,
+          38.934441
+        ]
+      },
+      "properties": {
+        "Title": "Bird's-eye-view of Cape May showing tract developed by Cape May Beach Land Company",
+        "Date": "approximately 1911",
+        "Creator": "Snyder, W., artist.",
+        "Image_Bank_URL": "https://quod.lib.umich.edu/w/wcl1ic/6762/WCL006828",
+        "Thumbnail_URL": "https://quod.lib.umich.edu/cgi/i/image/api/image/wcl1ic:6762:WCL006828/full/!250,250/0/default.jpg",
+        "Genres": [
+          "Bird's-eye views",
+          "Cityscapes",
+          "Advertisements",
+          "Lithographs"
+        ],
+        "Date_Range": [
+          "1901-2000"
+        ]
+      }
+    }
+  ],
+  "type": "FeatureCollection"
+}
