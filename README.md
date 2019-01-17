@@ -90,8 +90,7 @@ html file.
 
 ### Appendix
 
-There are two README's for the image_bank_request_api.py and leaflet_text_2.html that detail what each line of the file
-does through comments. It should be noted that both enableMCG.js and map.js were a part of leaflet_text_2.html but were 
+Two README’s, one for image_bank_request_api.py and one for leaflet_text_2.html, detail what each line of the file does through comments. It should be noted that both enableMCG.js and map.js were a part of leaflet_text_2.html but were 
 moved into separate files to make it easier to read.
 
 
