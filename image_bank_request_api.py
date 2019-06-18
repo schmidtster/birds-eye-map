@@ -10,8 +10,7 @@ import re
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
 
 title_regex = re.compile(r"([^:/\n]*).*")
-date_regex = \
-    re.compile(r"((?:approximately )?(?:after )?(?:between )?[\d-]{4}(?:-[\d-]{4})?|between [\d-]{4} and [\d-]{4}).*")
+date_regex = re.compile(r"((?:(?:approximately|after|between) )*\d{4}(?:(?:-| and )\d{4})?).*")
 genres_regex = re.compile(r"['A-Za-z-]+(?: ['A-Za-z-&]+)*")
 
 
