@@ -87,10 +87,3 @@ are lists. Used for Leaflet Tag Filter Button.
 
 Instructions: Make sure enableMCG.js, map.js, leaflet_text_2.html, and map-v2.geojson are all in the same directory as the 
 html file.
-
-### Appendix
-
-Two README’s, one for image_bank_request_api.py and one for leaflet_text_2.html, detail what each line of the file does through comments. It should be noted that both enableMCG.js and map.js were a part of leaflet_text_2.html but were 
-moved into separate files to make it easier to read.
-
-
